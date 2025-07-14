@@ -33,7 +33,7 @@ public class Largest {
 
 
         System.out.println("Maximum " + max);
-        System.out.println(" MAximum by using the Mart.max" +  Math.max(c,Math.max(a,b)));
+        System.out.println(" Maximum by using the Mart.max" + Math.max(c,Math.max(a,b)));
 
     }
 }
